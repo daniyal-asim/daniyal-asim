@@ -15,9 +15,9 @@
 
 ## 👋 About Me
 
-<img src="https://capsule-render.vercel.app/api?type=rect&height=130&color=0:141E30,100:243B55&text=I'm%20a%202nd-year%20EE%20student%20at%20GIKI%20who%20enjoys%20building%20things%2C%20breaking%20them%2C%0Aand%20figuring%20out%20how%20to%20fix%20them%20again.%20I%20enjoy%20experimenting%20with%20robotics%2C%0Aexploring%20LLMs%2C%20and%20turning%20random%20ideas%20into%20real%20working%20systems.&fontSize=13&fontColor=ffffff&fontAlignY=50"/>
-
----
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:141E30,100:243B55&text=I'm%20a%202nd-year%20EE%20student%20at%20GIKI%20who%20enjoys%20building%20things%20and%20breaking%20them.&fontSize=13&fontColor=d1d5db&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:141E30,100:243B55&text=I%20enjoy%20experimenting%20with%20robotics%2C%20exploring%20LLMs%2C&fontSize=13&fontColor=d1d5db&fontAlignY=55" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&height=40&color=0:141E30,100:243B55&text=and%20turning%20random%20ideas%20into%20real%20working%20systems.&fontSize=13&fontColor=d1d5db&fontAlignY=55" width="100%"/>
 
 ## Interests
 
